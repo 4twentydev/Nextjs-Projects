@@ -8,7 +8,7 @@ export function Header() {
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center">
           <Link href="/" className="text-2xl font-bold text-[var(--blue-text)]">
-            Next-Stage
+            4twenty.dev
           </Link>
           <div className="flex items-center space-x-6">
             <nav>
